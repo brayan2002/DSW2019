@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="ES">
-
 <head>
     <meta charset="UTF-8">
     <title> Ovi Web</title>
@@ -11,8 +8,8 @@
 
 <body>
     <header>
-        
-        <img src="img/banner.jpg"  alt="header">
+        <img src=IMG/banner.jpg alt=>
+        <img src="IMG/banner.jpg"  alt="header">
     </header>
     <nav>
                 <ul class="menu">
@@ -25,10 +22,8 @@
 				<li> 
 					<a href="Multimedia.html">Multimedia</a>
 				</li>
-				
 				<li>
 					<a href="actividades.html">Actividades</a>
-					
 				</li>
 				<li> 
 					<a href="autores.html">Autores</a> 
@@ -40,24 +35,19 @@
         <section class="principal">
             <h2>Bienvenida</h2>
             <article>
-                
-                <iframe src="PDF/Bienvenidos.pdf" frameborder="0" width="100%" height="400"></iframe>
+                 <iframe src="PDF/Bienvenidos.pdf" frameborder="0" width="100%" height="400"></iframe>
                 <h2>Informacion</h2>
                 <iframe src="PDF/Objetivos.pdf" frameborder="0" width="100%" height="400"></iframe>
-    
-            </article>
+    </article>
         </section>
-
-        <aside>
+ <aside>
             <h3>El Aside</h3>
-            <iframe width="320" height="200" src="https://www.youtube.com/embed/xa5JEpSUbRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="280" height="175" src="https://www.youtube.com/embed/xa5JEpSUbRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <h3>Twitter</h3>
                 <a class="twitter-timeline" data-width="320" data-height="200" href="https://twitter.com/UniversidadUNAD?ref_src=twsrc%5Etfw">Tweets by UniversidadUNAD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 <h3>Contador de Visitas</h3>
                 <a href="https://www.contadorvisitasgratis.com" title="contador de visitas para blog"><img src="https://counter10.wheredoyoucomefrom.ovh/private/contadorvisitasgratis.php?c=ywra685xwxh8uqfnyjmpc8n7a6hw7c7f" border="0" title="contador de visitas para blog" alt="contador de visitas para blog"></a>
-
-
-        </aside>
+ </aside>
     <section>
         <footer>
             <p>Página diseñada por los integrantes del grupo 301122_61</p>
