@@ -1,7 +1,5 @@
 <head>
     <meta charset="UTF-8">
-    <title> Ovi Web</title>
-    <link rel="stylesheet" href="CSS/estilos.css">
     <style type="text/css">
     </style>
 </head>
@@ -9,7 +7,6 @@
 <body>
     <header>
         <img src=IMG/banner.jpg>
-        <img src="IMG/banner.jpg"  alt="header">
     </header>
     <nav>
                 <ul class="menu">
