@@ -1,7 +1,5 @@
 <head>
     <meta charset="UTF-8">
-    <style type="text/css">
-    </style>
 </head>
 
 <body>
@@ -48,6 +46,6 @@
     <section>
         <footer>
             <p>Página diseñada por los integrantes del grupo 301122_61</p>
-			<img src="img/footer.jpg" alt="footer">
+			<img src=IMG/footer.jpg>
 		</footer>
 </body>
